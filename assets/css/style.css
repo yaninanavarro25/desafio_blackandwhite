@@ -1,0 +1,23 @@
+body{
+background-color: black;
+color: aliceblue;
+}
+.title{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+
+}
+
+.formcontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
+.button{
+    cursor: pointer;
+    padding: 5px;
+}
